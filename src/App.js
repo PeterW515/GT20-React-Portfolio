@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-import PortfolioHeader from './components/PortfolioHeader';
-import PortfolioMain from './components/PortfolioMain';
+import Header from './components/Header';
+import Main from './components/Main'
 
 function App() {
   return (
-    <div className="portfolio">
-      <PortfolioHeader />
-      <PortfolioMain />
+    <div>
+      <Header />
+      <Main />
     </div>
   );
 }
