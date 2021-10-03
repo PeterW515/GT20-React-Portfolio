@@ -1,4 +1,11 @@
 import React from "react";
+import coffee_shop from '../assets/fos_coffee_shop.png'
+import weather_dashboard from '../assets/weather_dashboard.png'
+import tech_blog from '../assets/tech_blog.png'
+import note_taker from '../assets/note_taker.png'
+import code_quiz from '../assets/code_quiz.png'
+import password_gen from '../assets/password_gen.png'
+
 
 
 function MyWork() {
@@ -12,7 +19,7 @@ function MyWork() {
                 <div class="col s12 m6">
                     <div class="small card z-depth-5">
                         <div class="card-image">
-                            <img class="materialboxed" width="300" src="assets/fos_coffee_shop.png" alt="screenshot of online ordering system" />
+                            <img class="materialboxed" width="300" src={coffee_shop} alt="screenshot of online ordering system" />
                         </div>
                         <div class="card-action center-align">
                             <a class="waves-effect waves-light black-text blue-grey btn"
@@ -26,7 +33,7 @@ function MyWork() {
                 <div class="col s12 m6">
                     <div class="small card z-depth-5">
                         <div class="card-image">
-                            <img class="materialboxed" width="300" src="assets/weather_dashboard.png" alt="screenshot of weather dashboard" />
+                            <img class="materialboxed" width="300" src={weather_dashboard} alt="screenshot of weather dashboard" />
                         </div>
                         <div class="card-action center-align">
                             <a class="waves-effect waves-light black-text blue-grey btn"
@@ -40,7 +47,7 @@ function MyWork() {
                 <div class="col s12 m6">
                     <div class="small card z-depth-5">
                         <div class="card-image">
-                            <img class="materialboxed" width="300" src="assets/tech_blog.png" alt="screenshot of tech blog" />
+                            <img class="materialboxed" width="300" src={tech_blog} alt="screenshot of tech blog" />
                         </div>
                         <div class="card-action center-align">
                             <a class="waves-effect waves-light black-text blue-grey btn"
@@ -55,7 +62,7 @@ function MyWork() {
                 <div class="col s12 m6">
                     <div class="small card z-depth-5">
                         <div class="card-image">
-                            <img class="materialboxed" width="300" src="assets/note_taker.png" alt="screenshot of note taker" />
+                            <img class="materialboxed" width="300" src={note_taker} alt="screenshot of note taker" />
                         </div>
                         <div class="card-action center-align">
                             <a class="waves-effect waves-light black-text blue-grey btn"
@@ -69,7 +76,7 @@ function MyWork() {
                 <div class="col s12 m6">
                     <div class="small card z-depth-5">
                         <div class="card-image">
-                            <img class="materialboxed" width="300" src="assets/code_quiz.png" alt="screenshot of code quiz" />
+                            <img class="materialboxed" width="300" src={code_quiz} alt="screenshot of code quiz" />
                         </div>
                         <div class="card-action center-align">
                             <a class="waves-effect waves-light black-text blue-grey btn"
@@ -83,7 +90,7 @@ function MyWork() {
                 <div class="col s12 m6">
                     <div class="small card z-depth-5">
                         <div class="card-image">
-                            <img class="materialboxed" width="300" src="assets/password_gen.png" alt="screenshot of password generator" />
+                            <img class="materialboxed" width="300" src={password_gen} alt="screenshot of password generator" />
                         </div>
                         <div class="card-action center-align">
                             <a class="waves-effect waves-light black-text blue-grey btn"
