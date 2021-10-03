@@ -1,0 +1,101 @@
+html {
+  font-family: "Open Sans", sans-serif;
+  scroll-behavior: smooth;
+}
+
+.section-100vh {
+  height: 100vh;
+}
+
+
+#myWork {
+  padding-top: 80px;
+}
+
+#about {
+  margin-top: 200px;
+  padding-top: 50px;
+
+}
+
+#contact {
+  margin-top: 100px;
+  padding-top: 50px;
+
+}
+
+.card .card-title {
+  font-size: 42px;
+}
+
+.card-action .btn {
+  width: 150px;
+}
+.parallax-container {
+  height: 100vh;
+}
+
+.parallax {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.overlay-content {
+  text-align: center;
+  position: relative;
+  height: 100vh;
+}
+
+.overlay-darken {
+  filter: brightness(50%);
+}
+
+.overlay-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+.btn {
+  width: 200px;
+  height: 50px;
+  color: white;
+  background-color: transparent;
+  border: 3px solid white;
+  font-size: 20px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: transparent;
+  box-shadow: 0 0 10px white;
+}
+
+
+
+.indicator-item {
+  border: 2px solid black;
+}
+.indicator-item.active {
+  border: 5px solid black;
+}
+
+.card {
+  height: 300px;
+}
+
+@media screen and (max-width: 1400px) {
+  .parallax {
+    background-position: 20%;
+  }
+
+}
