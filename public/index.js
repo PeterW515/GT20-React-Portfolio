@@ -1,4 +1,3 @@
-import M from 'materialize-css';
 const enterBtn = document.getElementById('enter');
 const carElem = document.getElementById('primary-carousel');
 const myWork = document.getElementById('myWork');
