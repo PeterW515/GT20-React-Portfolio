@@ -1,5 +1,5 @@
 # Peter Weigman's Portfolio
-![image](https://user-images.githubusercontent.com/78565748/129656066-3870d866-2fe4-4c41-ad3e-03d32033444c.png)
+![image](https://user-images.githubusercontent.com/78565748/136494527-72f2f461-99f9-4d56-91c2-e44755cc0db0.png)
 
 
 https://peterw515.github.io/portfolio/
