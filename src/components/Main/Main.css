@@ -1,0 +1,34 @@
+main {
+  position: absolute;
+  top: 215px;
+  left: 0px;
+  width: 100%;
+  height: auto;
+  padding-bottom: 50px;
+}
+
+li i {
+  color: #1d3557;
+  font-size: 30px;
+  margin-left: 20px;
+}
+
+#avatarImg {
+  margin-top: 10px;
+}
+
+.btn {
+  background-color: #1d3557;
+  width: 300px;
+}
+
+.btn:active {
+  background-color: #1d3557;
+}
+
+.btn:hover {
+  background-color: #1d3557;
+}
+.btn:focus {
+  background-color: #1d3557;
+}

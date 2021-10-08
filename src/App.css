@@ -37,7 +37,6 @@
   }
 }
 
-
 html {
   font-family: "Open Sans", sans-serif;
   scroll-behavior: smooth;
@@ -47,7 +46,6 @@ html {
   height: 100vh;
 }
 
-
 #myWork {
   padding-top: 80px;
 }
@@ -55,13 +53,11 @@ html {
 #about {
   margin-top: 200px;
   padding-top: 50px;
-
 }
 
 #contact {
   margin-top: 100px;
   padding-top: 50px;
-
 }
 
 .card .card-title {
@@ -100,8 +96,6 @@ html {
   transform: translate(-50%, -50%);
 }
 
-
-
 .btn {
   width: 200px;
   height: 50px;
@@ -120,8 +114,6 @@ html {
   box-shadow: 0 0 10px white;
 }
 
-
-
 .indicator-item {
   border: 2px solid black;
 }
@@ -137,5 +129,4 @@ html {
   .parallax {
     background-position: 20%;
   }
-
 }
