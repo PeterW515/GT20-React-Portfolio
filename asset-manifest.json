@@ -1,29 +1,31 @@
 {
   "files": {
-    "main.css": "/GT20-React-Portfolio/static/css/main.f4420806.chunk.css",
-    "main.js": "/GT20-React-Portfolio/static/js/main.5a98c940.chunk.js",
-    "main.js.map": "/GT20-React-Portfolio/static/js/main.5a98c940.chunk.js.map",
-    "runtime-main.js": "/GT20-React-Portfolio/static/js/runtime-main.a691cc75.js",
-    "runtime-main.js.map": "/GT20-React-Portfolio/static/js/runtime-main.a691cc75.js.map",
-    "static/js/2.6c43edc7.chunk.js": "/GT20-React-Portfolio/static/js/2.6c43edc7.chunk.js",
-    "static/js/2.6c43edc7.chunk.js.map": "/GT20-React-Portfolio/static/js/2.6c43edc7.chunk.js.map",
-    "static/js/3.e9f0f6da.chunk.js": "/GT20-React-Portfolio/static/js/3.e9f0f6da.chunk.js",
-    "static/js/3.e9f0f6da.chunk.js.map": "/GT20-React-Portfolio/static/js/3.e9f0f6da.chunk.js.map",
+    "main.css": "/GT20-React-Portfolio/static/css/main.ba596f3a.chunk.css",
+    "main.js": "/GT20-React-Portfolio/static/js/main.a28c1610.chunk.js",
+    "main.js.map": "/GT20-React-Portfolio/static/js/main.a28c1610.chunk.js.map",
+    "runtime-main.js": "/GT20-React-Portfolio/static/js/runtime-main.1cb99188.js",
+    "runtime-main.js.map": "/GT20-React-Portfolio/static/js/runtime-main.1cb99188.js.map",
+    "static/js/2.da2b2713.chunk.js": "/GT20-React-Portfolio/static/js/2.da2b2713.chunk.js",
+    "static/js/2.da2b2713.chunk.js.map": "/GT20-React-Portfolio/static/js/2.da2b2713.chunk.js.map",
+    "static/js/3.865cf222.chunk.js": "/GT20-React-Portfolio/static/js/3.865cf222.chunk.js",
+    "static/js/3.865cf222.chunk.js.map": "/GT20-React-Portfolio/static/js/3.865cf222.chunk.js.map",
     "index.html": "/GT20-React-Portfolio/index.html",
-    "static/css/main.f4420806.chunk.css.map": "/GT20-React-Portfolio/static/css/main.f4420806.chunk.css.map",
-    "static/js/2.6c43edc7.chunk.js.LICENSE.txt": "/GT20-React-Portfolio/static/js/2.6c43edc7.chunk.js.LICENSE.txt",
+    "static/css/main.ba596f3a.chunk.css.map": "/GT20-React-Portfolio/static/css/main.ba596f3a.chunk.css.map",
+    "static/js/2.da2b2713.chunk.js.LICENSE.txt": "/GT20-React-Portfolio/static/js/2.da2b2713.chunk.js.LICENSE.txt",
+    "static/media/Peter_Weigman_Resume.20c53bcf.pdf": "/GT20-React-Portfolio/static/media/Peter_Weigman_Resume.20c53bcf.pdf",
     "static/media/code_quiz.4407f82c.png": "/GT20-React-Portfolio/static/media/code_quiz.4407f82c.png",
     "static/media/code_sample.14173d78.png": "/GT20-React-Portfolio/static/media/code_sample.14173d78.png",
     "static/media/fos_coffee_shop.45306880.png": "/GT20-React-Portfolio/static/media/fos_coffee_shop.45306880.png",
+    "static/media/myAvatar.d05ea870.png": "/GT20-React-Portfolio/static/media/myAvatar.d05ea870.png",
     "static/media/note_taker.baf118ce.png": "/GT20-React-Portfolio/static/media/note_taker.baf118ce.png",
     "static/media/password_gen.d5882dfb.png": "/GT20-React-Portfolio/static/media/password_gen.d5882dfb.png",
     "static/media/tech_blog.1c795a91.png": "/GT20-React-Portfolio/static/media/tech_blog.1c795a91.png",
     "static/media/weather_dashboard.1c0166a9.png": "/GT20-React-Portfolio/static/media/weather_dashboard.1c0166a9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a691cc75.js",
-    "static/js/2.6c43edc7.chunk.js",
-    "static/css/main.f4420806.chunk.css",
-    "static/js/main.5a98c940.chunk.js"
+    "static/js/runtime-main.1cb99188.js",
+    "static/js/2.da2b2713.chunk.js",
+    "static/css/main.ba596f3a.chunk.css",
+    "static/js/main.a28c1610.chunk.js"
   ]
 }
