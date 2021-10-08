@@ -1,19 +1,22 @@
 import React from "react";
-
 import NavItem from './NavItem'
 
 function Nav({ pages, currentPage, handlePageChange }) {
     return (
-        <ul>
-            {pages.map(page => (
-                <NavItem
-                    key={page}
-                    page={page}
-                    currentPage={currentPage}
-                    handlePageChange={handlePageChange}
-                />
-            ))}
-        </ul>
+        <nav>
+            <div className="nav-wrapper">
+                <ul id="nav-mobile" className="right">
+                    {pages.map(page => (
+                        <NavItem
+                            key={page}
+                            page={page}
+                            currentPage={currentPage}
+                            handlePageChange={handlePageChange}
+                        />
+                    ))}
+                </ul>
+            </div>
+        </nav>
     )
 }
 

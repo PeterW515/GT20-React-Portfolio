@@ -4,6 +4,8 @@ import Portfolio from './Portfolio';
 import Contact from './Contact';
 import Resume from './Resume';
 
+import './Main.css'
+
 
 
 function Main({ currentPage }) {
@@ -25,7 +27,6 @@ function Main({ currentPage }) {
 
     return (
         <main>
-            <h1>Main</h1>
             {renderPage()}
         </main>
     );

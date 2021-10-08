@@ -9,8 +9,8 @@ function Footer() {
             </div>
             <div className="col s6 center-align">
                 <a href="https://github.com/PeterW515" target="_blank" rel="noreferrer"><i className="fab fa-github-square"></i></a>
-                <a href="https://www.linkedin.com/in/peter-weigman/" target="_blank" rel="noreferrer"><i class="fab fa-linkedin"></i></a>
-                <a href="https://stackoverflow.com/users/15526156/peterw515" target="_blank" rel="noreferrer"><i class="fab fa-stack-overflow"></i></a>
+                <a href="https://www.linkedin.com/in/peter-weigman/" target="_blank" rel="noreferrer"><i className="fab fa-linkedin"></i></a>
+                <a href="https://stackoverflow.com/users/15526156/peterw515" target="_blank" rel="noreferrer"><i className="fab fa-stack-overflow"></i></a>
             </div>
             <div className="col s3"></div>
         </footer>
