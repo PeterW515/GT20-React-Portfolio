@@ -19,6 +19,7 @@ li i {
 
 .btn {
   background-color: #1d3557;
+  width: 300px;
 }
 
 .btn:active {

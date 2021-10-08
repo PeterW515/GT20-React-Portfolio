@@ -1,15 +1,23 @@
 import React from "react";
+import resume from '../../assets/Peter_Weigman_Resume.pdf'
 
 function Resume() {
 
 
     return (
         <div className="row">
+            <div className="row center-align"><a href={resume} class="waves-effect waves-light btn" rel="noreferrer" target="_blank">Download Resume</a></div>
             <div className="col m6 s12 center-align">
 
                 <ul className="collection with-header">
                     <li className="collection-header"><i className="fas fa-server">Back End Skills</i></li>
-                    <li className="collection-item"><div>After graduating from Clemson University in 2018, I began working for Manhattan Associates, a supply chain software company. As a consultant and then business analyst, I worked on the functional side of the software. Around the middle of 2020, I began to think I wanted to move in to more technical work.</div></li>
+                    <li className="collection-item"><div>Node JS</div></li>
+                    <li className="collection-item"><div>OOP</div></li>
+                    <li className="collection-item"><div>Express JS</div></li>
+                    <li className="collection-item"><div>MySQL</div></li>
+                    <li className="collection-item"><div>MVC</div></li>
+                    <li className="collection-item"><div>MongoDB</div></li>
+                    <li className="collection-item"><div>PWA</div></li>
                 </ul>
 
             </div>
@@ -17,7 +25,11 @@ function Resume() {
 
                 <ul className="collection with-header">
                     <li className="collection-header"><i className="fas fa-desktop">Front End Skills</i></li>
-                    <li className="collection-item"><div>I've developed this portfolio with links to some of my projects, as well as my Github account. I hope to use this to showcase my work and launch my career as a full stack developer!</div></li>
+                    <li className="collection-item"><div>HTML</div></li>
+                    <li className="collection-item"><div>CSS</div></li>
+                    <li className="collection-item"><div>Javascript</div></li>
+                    <li className="collection-item"><div>Web APIs</div></li>
+                    <li className="collection-item"><div>React</div></li>
                 </ul>
 
             </div>
